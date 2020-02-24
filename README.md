@@ -7,3 +7,8 @@ tatesuke's scoop bucket
 ```
 scoop bucket add tatesuke https://github.com/tatesuke/scoop.git
 ```
+
+## list
+
+* sakura-editor
+* MEMCPU

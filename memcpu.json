@@ -1,0 +1,18 @@
+{
+    "#":"タスクトレイにCPU使用率とメモリ使用率を表示。",
+    "version":  "2.4",
+    "url":  [
+        "http://ftp.vector.co.jp/57/12/2536/memcpu_242.zip"
+    ],
+    "hash": [
+        "01B6D15F635C2A54D026FB6AD756BAAFBB2792864ED94EBC0D85C853084AA980"
+    ],
+
+    "bin":  "MEMCPU.exe",
+    "shortcuts": [
+        [
+            "MEMCPU.exe",
+            "MEMCPU"
+        ]
+    ]
+}
